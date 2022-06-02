@@ -1,0 +1,2 @@
+cada caixa deve ter limite de 10 peças, acima de 10 peças emitir uma mensagem de capacidade insuficiente.
+
