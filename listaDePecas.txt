@@ -5,3 +5,5 @@ para aceitar cadastro a peça deve ter o peso superior a 100g.
 nome peça deve ter 3 ou mais caracteres, caso contrario enviar msg de erro.
 
 O nome da peça não pode ser vazio
+
+O nome de peça deve ter mais de 3 caracteres
