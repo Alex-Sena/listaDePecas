@@ -3,3 +3,5 @@ cada caixa deve ter limite de 10 peças, acima de 10 peças emitir uma mensagem 
 para aceitar cadastro a peça deve ter o peso superior a 100g. 
 
 nome peça deve ter 3 ou mais caracteres, caso contrario enviar msg de erro.
+
+O nome da peça não pode ser vazio
